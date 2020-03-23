@@ -1,0 +1,17 @@
+// questions
+export const LOAD_QUESTIONS_SUCCESS = "LOAD_QUESTIONS_SUCCESS";
+export const ADD_QUESTION_SUCCESS = "ADD_QUESTION";
+export const ANSWER_QUESTION_SUCCESS = "ANSWER_QUESTION";
+
+//users
+export const LOAD_USERS_SUCCESS = "LOAD_USERS_SUCCESS";
+export const ADD_QUESTION_USER_SUCCESS = "ADD_QUESTION_USER";
+export const ANSWER_QUESTION_USER_SUCCESS = "ANSWER_QUESTION_USER";
+
+//authedUser
+export const SIGN_IN_SUCCESS = "SIGN_IN";
+export const LOGOUT_SUCCESS = "LOGOUT";
+
+//api call
+export const BEGIN_API_CALL = "BEGIN_API_CALL";
+export const API_CALL_ERROR = "API_CALL_ERROR";

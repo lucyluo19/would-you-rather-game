@@ -1,0 +1,33 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: rgb(234, 234, 234) !important;
+}
+
+/*signin page styles*/
+.ui.centered.card {
+  margin-top: 5em;
+}
+
+/*Dashboard styles*/
+.ui.tabular.menu .item {
+  min-width: 50%;
+  text-align: center;
+}
+
+.ui.tabular.menu .active.item {
+  color: #1c92ea;
+}
+
+.ui.attached.label,
+.ui[class*="top attached"].label {
+  font-size: 16px;
+}
+
+p {
+  margin: 0 0 3em;
+}
+
+p:last-child {
+  margin-bottom: 1em;
+}
